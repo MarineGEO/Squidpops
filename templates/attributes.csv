@@ -1,0 +1,24 @@
+﻿sheet,fieldName,fieldDefinition,fieldType,formatString,loopup,unit,minValue,maxValue
+Location,site,MarineGEO site abbreviation,list,,,,,
+Location,location,Name of deployment spot. Unique code for each deployment group,string,,,,,
+Location,locality,Local or common name of the sampling location,string,,,,,
+Location,decimalLatitude,"Decimal Latitude hh.hhhhhhh, approximate",decimal,,,degree,-90,90
+Location,decimalLongitude,"Decimal Longitude hh.hhhhhhh, approximate",decimal,,,degree,-180,180
+Location,geoform,CMECS geoform,list,,,,,
+Location,substrateClass,CMECS substrate class,list,,,,,
+Location,bioticClass,CMECS biotic class,list,,,,,
+Data,location,Foreign key to location,fkey,,Location$location,,,
+Data,dateDeployed,Date stakes were deployed,date,YYYY-MM-DD,,,,
+Data,timeDeployed,Time stakes were deployed,date,HH:MM,,,,
+Data,numberDeployed,Number of units deployed at each location,integer,,,dimensionless,0,
+Data,bait,Type of bait used,list,,,,,
+Data,detachment1hr,Number of items removed after 1 hour,integer,,,dimensionless,,
+Data,dateCollected,Date stakes were collected ,date,YYYY-MM-DD,,,,
+Data,timeCollected,Time stakes were collected ,date,HH:MM,,,,
+Data,numberRecovered,Number of units recovered at end of experiment,integer,,,dimensionless,,100
+Data,detatchment24hr,Cumulative number items removed after 24 hours,integer,,,dimensionless,,
+Data,dataCollector,Name of the individual who deployed and collected the experiment,string,,,,,
+Data,weather,General notes about the weather on deployment/retrieval,string,,,,,
+Data,depth,Depth of deployment in meters,decimal,,,meter,,
+Data,notes,"Additional notes about the location, dive conditions, photos",string,,,,,
+Data,media,File names of the recordings if video was collected,string,,,,,

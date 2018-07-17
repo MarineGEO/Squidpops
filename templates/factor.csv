@@ -1,0 +1,146 @@
+﻿fieldName,code,definition
+bioticClass,Zooplankton,Coastal and Marine Ecological Classification Standard
+bioticClass,Floating/Suspended Plants and Macroalgae,Coastal and Marine Ecological Classification Standard
+bioticClass,Phytoplankton,Coastal and Marine Ecological Classification Standard
+bioticClass,Floating/Suspended Microbes,Coastal and Marine Ecological Classification Standard
+bioticClass,Reef Biota,Coastal and Marine Ecological Classification Standard
+bioticClass,Faunal Bed,Coastal and Marine Ecological Classification Standard
+bioticClass,Microbial Communities,Coastal and Marine Ecological Classification Standard
+bioticClass,Moss and Lichen Communities,Coastal and Marine Ecological Classification Standard
+bioticClass,Aquatic Vegetation Bed,Coastal and Marine Ecological Classification Standard
+bioticClass,Emergent Wetland,Coastal and Marine Ecological Classification Standard
+bioticClass,Scrub-Shrub Wetland,Coastal and Marine Ecological Classification Standard
+bioticClass,Forested Wetland,Coastal and Marine Ecological Classification Standard
+substrateClass,Rock Substrate,Coastal and Marine Ecological Classification Standard
+substrateClass,Unconsolidated Mineral Substrate,Coastal and Marine Ecological Classification Standard
+substrateClass,Algal Substrate,Coastal and Marine Ecological Classification Standard
+substrateClass,Coral Substrate,Coastal and Marine Ecological Classification Standard
+substrateClass,Organic Substrate,Coastal and Marine Ecological Classification Standard
+substrateClass,Ooze Substrate,Coastal and Marine Ecological Classification Standard
+substrateClass,Shell Substrate,Coastal and Marine Ecological Classification Standard
+substrateClass,Worm Substrate,Coastal and Marine Ecological Classification Standard
+substrateClass,Anthropogenic Rock,Coastal and Marine Ecological Classification Standard
+substrateClass,Anthropogenic Wood,Coastal and Marine Ecological Classification Standard
+substrateClass,Construction Materials,Coastal and Marine Ecological Classification Standard
+substrateClass,Metal,Coastal and Marine Ecological Classification Standard
+substrateClass,Trash,Coastal and Marine Ecological Classification Standard
+geoform,Apron,Coastal and Marine Ecological Classification Standard
+geoform,Bank,Coastal and Marine Ecological Classification Standard
+geoform,Bar,Coastal and Marine Ecological Classification Standard
+geoform,Basin,Coastal and Marine Ecological Classification Standard
+geoform,Beach,Coastal and Marine Ecological Classification Standard
+geoform,Beach Berm,Coastal and Marine Ecological Classification Standard
+geoform,Boulder Field,Coastal and Marine Ecological Classification Standard
+geoform,Cave,Coastal and Marine Ecological Classification Standard
+geoform,Channel,Coastal and Marine Ecological Classification Standard
+geoform,Cone,Coastal and Marine Ecological Classification Standard
+geoform,Cove,Coastal and Marine Ecological Classification Standard
+geoform,Delta,Coastal and Marine Ecological Classification Standard
+geoform,Delta Plain,Coastal and Marine Ecological Classification Standard
+geoform,Depression,Coastal and Marine Ecological Classification Standard
+geoform,Diapir,Coastal and Marine Ecological Classification Standard
+geoform,Dike,Coastal and Marine Ecological Classification Standard
+geoform,Drumlin,Coastal and Marine Ecological Classification Standard
+geoform,Drumlin Field,Coastal and Marine Ecological Classification Standard
+geoform,Dune Field,Coastal and Marine Ecological Classification Standard
+geoform,Dune,Coastal and Marine Ecological Classification Standard
+geoform,Fan,Coastal and Marine Ecological Classification Standard
+geoform,Flat,Coastal and Marine Ecological Classification Standard
+geoform,Fluvio-Marine Deposit,Coastal and Marine Ecological Classification Standard
+geoform,Fracture,Coastal and Marine Ecological Classification Standard
+geoform,Hole/Pit,Coastal and Marine Ecological Classification Standard
+geoform,Hydrothermal Vent Field,Coastal and Marine Ecological Classification Standard
+geoform,Hydrothermal Vent,Coastal and Marine Ecological Classification Standard
+geoform,Inlet,Coastal and Marine Ecological Classification Standard
+geoform,Island,Coastal and Marine Ecological Classification Standard
+geoform,Karren,Coastal and Marine Ecological Classification Standard
+geoform,Knob,Coastal and Marine Ecological Classification Standard
+geoform,Lagoon,Coastal and Marine Ecological Classification Standard
+geoform,Lava Field/Plain,Coastal and Marine Ecological Classification Standard
+geoform,Ledge,Coastal and Marine Ecological Classification Standard
+geoform,Marine Lake,Coastal and Marine Ecological Classification Standard
+geoform,Marsh Platform,Coastal and Marine Ecological Classification Standard
+geoform,Megaripples,Coastal and Marine Ecological Classification Standard
+geoform,Moraine,Coastal and Marine Ecological Classification Standard
+geoform,Mound/Hummock,Coastal and Marine Ecological Classification Standard
+geoform,Mud Volcano,Coastal and Marine Ecological Classification Standard
+geoform,Natural Levee,Coastal and Marine Ecological Classification Standard
+geoform,Overhang (Cliff),Coastal and Marine Ecological Classification Standard
+geoform,Panne,Coastal and Marine Ecological Classification Standard
+geoform,Pavement Area,Coastal and Marine Ecological Classification Standard
+geoform,Platform,Coastal and Marine Ecological Classification Standard
+geoform,Pockmark Field,Coastal and Marine Ecological Classification Standard
+geoform,Pockmark,Coastal and Marine Ecological Classification Standard
+geoform,Ridge,Coastal and Marine Ecological Classification Standard
+geoform,Ripples,Coastal and Marine Ecological Classification Standard
+geoform,Rock Outcrop,Coastal and Marine Ecological Classification Standard
+geoform,Rubble Field,Coastal and Marine Ecological Classification Standard
+geoform,Runnel/Rill,Coastal and Marine Ecological Classification Standard
+geoform,Sediment Wave Field,Coastal and Marine Ecological Classification Standard
+geoform,Scarp/Wall,Coastal and Marine Ecological Classification Standard
+geoform,Scar,Coastal and Marine Ecological Classification Standard
+geoform,Seamount,Coastal and Marine Ecological Classification Standard
+geoform,Sediment Sheet,Coastal and Marine Ecological Classification Standard
+geoform,Shelf Valley,Coastal and Marine Ecological Classification Standard
+geoform,Shoal,Coastal and Marine Ecological Classification Standard
+geoform,Shore Complex,Coastal and Marine Ecological Classification Standard
+geoform,Shore,Coastal and Marine Ecological Classification Standard
+geoform,Slope,Coastal and Marine Ecological Classification Standard
+geoform,Spit,Coastal and Marine Ecological Classification Standard
+geoform,Stack,Coastal and Marine Ecological Classification Standard
+geoform,Submarine Slide Deposit,Coastal and Marine Ecological Classification Standard
+geoform,Swale/Slack,Coastal and Marine Ecological Classification Standard
+geoform,Terrace,Coastal and Marine Ecological Classification Standard
+geoform,Tidepool,Coastal and Marine Ecological Classification Standard
+geoform,Till Surface,Coastal and Marine Ecological Classification Standard
+geoform,Tombolo,Coastal and Marine Ecological Classification Standard
+geoform,Atoll,Coastal and Marine Ecological Classification Standard
+geoform,Burrows/Bioturbation,Coastal and Marine Ecological Classification Standard
+geoform,Coral Reef Island,Coastal and Marine Ecological Classification Standard
+geoform,Mollusk Reef,Coastal and Marine Ecological Classification Standard
+geoform,Deep/Cold-Water Coral Reef,Coastal and Marine Ecological Classification Standard
+geoform,Shallow/Mesophotic Coral Reef,Coastal and Marine Ecological Classification Standard
+geoform,Tree Fall,Coastal and Marine Ecological Classification Standard
+geoform,Whale Fall,Coastal and Marine Ecological Classification Standard
+geoform,Worm Reef,Coastal and Marine Ecological Classification Standard
+geoform,Aquaculture Structure,Coastal and Marine Ecological Classification Standard
+geoform,Artificial Bar,Coastal and Marine Ecological Classification Standard
+geoform,Artificial Dike,Coastal and Marine Ecological Classification Standard
+geoform,Artificial Reef,Coastal and Marine Ecological Classification Standard
+geoform,Artificial Scar,Coastal and Marine Ecological Classification Standard
+geoform,Buoy,Coastal and Marine Ecological Classification Standard
+geoform,Breakwater/Jetty,Coastal and Marine Ecological Classification Standard
+geoform,Breachway,Coastal and Marine Ecological Classification Standard
+geoform,Bulkhead,Coastal and Marine Ecological Classification Standard
+geoform,Cable Area,Coastal and Marine Ecological Classification Standard
+geoform,Cable,Coastal and Marine Ecological Classification Standard
+geoform,Canal,Coastal and Marine Ecological Classification Standard
+geoform,Dam,Coastal and Marine Ecological Classification Standard
+geoform,Dock/Pier,Coastal and Marine Ecological Classification Standard
+geoform,Dredged/Excavated Channel,Coastal and Marine Ecological Classification Standard
+geoform,Dredge Deposit,Coastal and Marine Ecological Classification Standard
+geoform,Dredge Disturbance,Coastal and Marine Ecological Classification Standard
+geoform,Drilling (Oil and Gas) Rig,Coastal and Marine Ecological Classification Standard
+geoform,Fill Area,Coastal and Marine Ecological Classification Standard
+geoform,Fish Pond,Coastal and Marine Ecological Classification Standard
+geoform,Harbor,Coastal and Marine Ecological Classification Standard
+geoform,Lock,Coastal and Marine Ecological Classification Standard
+geoform,Lost/Discarded Fishing Gear,Coastal and Marine Ecological Classification Standard
+geoform,Marina/Boat Ramp,Coastal and Marine Ecological Classification Standard
+geoform,Mooring Field,Coastal and Marine Ecological Classification Standard
+geoform,Mosquito Ditch,Coastal and Marine Ecological Classification Standard
+geoform,Outfall/Intake,Coastal and Marine Ecological Classification Standard
+geoform,Pilings,Coastal and Marine Ecological Classification Standard
+geoform,Pipeline Area,Coastal and Marine Ecological Classification Standard
+geoform,Rip Rap Deposit,Coastal and Marine Ecological Classification Standard
+geoform,Salt Pond Complex,Coastal and Marine Ecological Classification Standard
+geoform,Salt Pond,Coastal and Marine Ecological Classification Standard
+geoform,Seawall,Coastal and Marine Ecological Classification Standard
+geoform,Tidal/Wave Energy Structure,Coastal and Marine Ecological Classification Standard
+geoform,Trash Aggregation,Coastal and Marine Ecological Classification Standard
+geoform,Wharf,Coastal and Marine Ecological Classification Standard
+geoform,Wind Energy Structure,Coastal and Marine Ecological Classification Standard
+geoform,Wreck,Coastal and Marine Ecological Classification Standard
+bait,Squid,
+bait,Weed,
+bait,Algae,
